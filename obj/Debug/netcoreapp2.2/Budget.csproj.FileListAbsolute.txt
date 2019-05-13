@@ -1,0 +1,11 @@
+/Users/indhu/Documents/Budget/bin/Debug/netcoreapp2.2/Budget.deps.json
+/Users/indhu/Documents/Budget/bin/Debug/netcoreapp2.2/Budget.runtimeconfig.json
+/Users/indhu/Documents/Budget/bin/Debug/netcoreapp2.2/Budget.runtimeconfig.dev.json
+/Users/indhu/Documents/Budget/bin/Debug/netcoreapp2.2/Budget.dll
+/Users/indhu/Documents/Budget/bin/Debug/netcoreapp2.2/Budget.pdb
+/Users/indhu/Documents/Budget/obj/Debug/netcoreapp2.2/Budget.csprojAssemblyReference.cache
+/Users/indhu/Documents/Budget/obj/Debug/netcoreapp2.2/Budget.csproj.CoreCompileInputs.cache
+/Users/indhu/Documents/Budget/obj/Debug/netcoreapp2.2/Budget.AssemblyInfoInputs.cache
+/Users/indhu/Documents/Budget/obj/Debug/netcoreapp2.2/Budget.AssemblyInfo.cs
+/Users/indhu/Documents/Budget/obj/Debug/netcoreapp2.2/Budget.dll
+/Users/indhu/Documents/Budget/obj/Debug/netcoreapp2.2/Budget.pdb
